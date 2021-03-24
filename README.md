@@ -1,2 +1,2 @@
 # cssClock
-@second project of 30 JavaScript Projects.
+#second project of 30 JavaScript Projects.
